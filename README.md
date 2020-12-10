@@ -6,8 +6,6 @@
 
 <a href="https://github.com/1207roy/news_demo_app/raw/main/demo/news_demo.apk">Click to Download apk</a>
 
-<a href="https://github.com/1207roy/news_demo_app/raw/main/demo/mobile_video.mp4">Download Video</a>
-
 ## Screenshots
 <p float="left">
 <h1> Flutter Mobile</h1>
